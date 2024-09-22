@@ -11,24 +11,6 @@ Data Science Assignment
 <h4>Team member 2: Ho Jun Min</h4>
 <h4>Team member 3: Hee JingXi</h4>
 
-<h2>Table of Contents</h2>
-<ol>
-    <li><a href="#installation">Installation</a></li>
-    <li><a href="#project-structure">Project Structure</a></li>
-    <li><a href="#dataset-overview">Dataset Overview</a></li>
-    <li><a href="#steps-in-the-notebook">Steps in the Notebook</a>
-        <ul>
-            <li><a href="#data-loading">1. Data Loading</a></li>
-            <li><a href="#data-preprocessing">2. Data Preprocessing</a></li>
-            <li><a href="#model-training">3. Model Training</a></li>
-            <li><a href="#model-evaluation">4. Model Evaluation</a></li>
-        </ul>
-    </li>
-    <li><a href="#results-and-plots">Results and Plots</a></li>
-    <li><a href="#conclusion">Conclusion</a></li>
-    <li><a href="#how-to-run">How to Run</a></li>
-</ol>
-
 <h2 id="installation">Installation</h2>
 <p>To run this notebook, you will need to install the following libraries:</p>
 <pre><code>pip install xgboost pandas numpy matplotlib scikit-learn</code></pre>
@@ -155,7 +137,7 @@ xgb_baseline_model.fit(X_train, y_train)
 
 <img src="https://github.com/user-attachments/assets/da5847ab-9fa7-46f0-8339-a9901acc50b7" alt="image" width="500"/>
 
-# Prediction Outcomes after ensemble the best model with teammates' best models
+<h3> Prediction Outcomes after ensemble the best model with teammates' best models </h3>
 <img src="https://github.com/user-attachments/assets/ee16a29a-3780-4ffc-b244-6df4d1901d7f" alt="image" width="500"/>
 
 <h2 id="conclusion">Conclusion</h2>
