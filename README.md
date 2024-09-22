@@ -9,7 +9,7 @@ Data Science Assignment
 <h4>Me: Kam Bee Foong (XGBoost Classification)</h4>
 <h4>Team member 1: Ooi Yi Xuen</h4>
 <h4>Team member 2: Ho Jun Min</h4>
-<h4>Team member 3: Kam Bee Foong</h4>
+<h4>Team member 3: Hee JingXi</h4>
 
 <h2>Table of Contents</h2>
 <ol>
@@ -39,8 +39,7 @@ Data Science Assignment
 <pre><code>
 .
 ├── XGBoost_Classification.ipynb   # Main notebook file
-├── README.md                      # This file
-└── data/                          # Folder for the dataset (if applicable)
+└── README.md                      # This file
 </code></pre>
 
 <h2 id="dataset-overview">Dataset Overview</h2>
