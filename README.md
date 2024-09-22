@@ -4,12 +4,12 @@ Data Science Assignment
 <h2>Project Overview</h2>
 <p>This project uses the <strong>XGBoost</strong> algorithm to perform classification on a dataset. The objective is to demonstrate using XGBoost for classification tasks and evaluate the model’s performance through accuracy and other evaluation metrics. This assignment is performing data science techniques with different algorithms handled by each of the teammates.</p>
 
-<h1>Dataset: [https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data](url)</h1>
+<h4>Dataset: [https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data](url)</h4>
 
-<h1>Me: Kam Bee Foong (XGBoost Classification)</h1>
-<h1>Team member 1: Ooi Yi Xuen</h1>
-<h1>Team member 2: Ho Jun Min</h1>
-<h1>Team member 3: Kam Bee Foong</h1>
+<h4>Me: Kam Bee Foong (XGBoost Classification)</h4>
+<h4>Team member 1: Ooi Yi Xuen</h4>
+<h4>Team member 2: Ho Jun Min</h4>
+<h4>Team member 3: Kam Bee Foong</h4>
 
 <h2>Table of Contents</h2>
 <ol>
