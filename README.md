@@ -155,6 +155,9 @@ xgb_baseline_model.fit(X_train, y_train)
 
 <img src="https://github.com/user-attachments/assets/da5847ab-9fa7-46f0-8339-a9901acc50b7" alt="image" width="500"/>
 
+# Prediction Outcomes after ensemble the best model with teammates' best models
+<img src="https://github.com/user-attachments/assets/ee16a29a-3780-4ffc-b244-6df4d1901d7f" alt="image" width="500"/>
+
 <h2 id="conclusion">Conclusion</h2>
 <p>The XGBoost classifier performed well on the dataset, achieving an accuracy of [82.25%]. The model's strength lies in its ability to handle large datasets efficiently and its robustness to overfitting. By tuning the hyperparameters, further improvements in accuracy and generalization may be possible.</p>
 
