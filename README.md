@@ -10,8 +10,6 @@ Data Science Assignment
 </head>
 <body>
 
-<h1>XGBoost Classification Project</h1>
-
 <h2>Project Overview</h2>
 <p>This project uses the <strong>XGBoost</strong> algorithm to perform classification on a dataset. The objective is to demonstrate the use of XGBoost for classification tasks and to evaluate the model’s performance through accuracy and other evaluation metrics.</p>
 
