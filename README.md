@@ -45,6 +45,7 @@ Data Science Assignment
 <h2 id="dataset-overview">Dataset Overview</h2>
 <p>The dataset used for this project consists of several features that contribute to the classification task. Here’s a brief overview of the dataset:</p>
 <ul>
+    
 **Purpose**: Classify individuals as good or bad credit risks.
 
 **Instances**: 1000
