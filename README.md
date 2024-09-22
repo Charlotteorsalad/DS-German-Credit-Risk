@@ -45,9 +45,33 @@ Data Science Assignment
 <h2 id="dataset-overview">Dataset Overview</h2>
 <p>The dataset used for this project consists of several features that contribute to the classification task. Here’s a brief overview of the dataset:</p>
 <ul>
-    <li><strong>Features:</strong> [List relevant features of the dataset]</li>
-    <li><strong>Target:</strong> The target variable for classification.</li>
-    <li><strong>Size:</strong> [Number of rows and columns]</li>
+**Purpose**: Classify individuals as good or bad credit risks.
+
+**Instances**: 1000
+
+**Attributes**: 20 (7 numerical, 13 categorical)
+
+---
+
+**Attribute Information**:
+
+- **Numerical Attributes**: Age, credit amount, duration, etc.
+- **Categorical Attributes**: Checking account status, credit history, purpose, savings, employment status, etc.
+
+---
+
+**Target Variable**:
+
+- **Class**: Good (700 instances) or Bad (300 instances)
+
+---
+
+**Data Characteristics**:
+
+- **Balance**: The dataset is somewhat imbalanced with more good credit cases.
+- **Missing Values**: None specified.
+- **Cost Matrix**: Provided for misclassification costs.
+
 </ul>
 
 <h2 id="steps-in-the-notebook">Steps in the Notebook</h2>
