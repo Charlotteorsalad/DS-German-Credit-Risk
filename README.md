@@ -2,7 +2,7 @@
 Data Science Assignment
 
 <h2>Project Overview</h2>
-<p>This project uses the <strong>XGBoost</strong> algorithm to perform classification on a dataset. The objective is to demonstrate using XGBoost for classification tasks and evaluate the model’s performance through accuracy and other evaluation metrics. This assignment is performing data science techniques with different algorithms handled by each of the teammates.</p>
+<p>This project uses the <strong>XGBoost</strong> algorithm to perform classification on a dataset. The objective is to demonstrate using XGBoost for classification tasks and evaluate the model’s performance through accuracy and other evaluation metrics. This assignment is performing data science techniques with different algorithms handled by each of the teammates, whereas the preprocessing steps are group work.</p>
 
 <h4>Dataset: [https://archive.ics.uci.edu/dataset/144/statlog+german+credit+data]</h4>
 
