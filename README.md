@@ -123,4 +123,4 @@ print(classification_report(y_test, y_pred))
 </ol>
 
 <h2>License</h2>
-<p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
+<p>This project is part of a university assignment and is not intended for commercial use.</p>
